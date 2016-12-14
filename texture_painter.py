@@ -22,7 +22,7 @@ def get_backers(csv_filename):
             backer = dict(zip(header, row)) #uses a python dict object to store row as name, value pairs using the header row as names
             #zip function interleaves values from the tuple
             yield backer  # this is sorta like return, but does it per row
-# changed this thing againg again
+# changed this thing againg again again
 def render_text_to_file(text_to_render, filename):
     # create image file
     kenImage = Image.new('RGB', (512, 64), color=(0, 0, 0))
