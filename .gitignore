@@ -1,2 +1,11 @@
 .DS_Store
-README.md
+Git_learning_diagram.rp
+__pycache__/
+backers.csv
+backers_10.csv
+blender_commands.rtf
+credits2.blend
+credits3.blend
+texture_cache/
+texture_painter copy 2.py
+texture_painter copy.py
